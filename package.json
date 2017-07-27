@@ -1,12 +1,12 @@
 {
   "name": "hello",
   "version": "1.0.0",
-  "description": "",
+  "description": "Just to show how easy it is to hook into node's require. Inspired by babel-register and uglify-register",
   "main": "index.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babel-core": "^6.25.0",
-    "babel-preset-env": "^1.6.0"
+    "babel-core": "6.25.0",
+    "babel-preset-env": "1.6.0"
   }
 }
